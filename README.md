@@ -1,9 +1,9 @@
 # Maraton-QA-GoIT
 Maraton manual testing -  QA - GoIT
 
-I wrote test cases based on the specifications: https://faq-qa.m.goit.global/ro/
+I wrote test cases in TestRail based on the specifications: https://faq-qa.m.goit.global/ro/
 
-I created the bug reports based on the test cases.
+I created the bug reports based on the test cases in Jira.
 
 I found additional bugs on the site and created my own bug reports.
 
